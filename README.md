@@ -50,7 +50,7 @@ simulated information and does not collect real personal data.
 
 ## Screenshots
 
-A screenshot of the final prototype can be added here.
+![Data Shadow final prototype](data-shadow-screenshot.png)
 
 ## Setup
 
